@@ -1,1 +1,1 @@
-#proizvolnoe soderzimoe 1
+#proizvolnoe soderzimoe 1.2
